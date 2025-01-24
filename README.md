@@ -15,7 +15,7 @@ Attualmente sto approfondendo:
 - **Java** e il suo ecosistema (Spring, Hibernate, Maven)  
 - **Adobe Experience Manager (AEM)**  
 - **Frontend Development** con JavaScript e React  
-- **Programmazione per microcontrollori** (Arduino, ESP32) e sistemi IoT  
+- **Programmazione per microcontrollori** (Arduino, ESP32, Raspberry) e sistemi IoT  
 
 ---
 
