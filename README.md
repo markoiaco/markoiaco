@@ -10,8 +10,9 @@ Lavoro nel settore IT con esperienza nello sviluppo web ed eCommerce, attualment
 ---
 
 ## 🌱 Cosa sto imparando  
-Attualmente sto approfondendo:  
-- **Python** e il suo ecosistema Web con Flask e Jinja2
+Attualmente sto approfondendo:
+- **Flutter** Android/Ios principalmente Android Studio con Dart
+- **Python** ed i suoi MicroFramework Web con Flask e Jinja2
 - **Java** e il suo ecosistema (Spring, Hibernate, Maven)  
 - **Adobe Experience Manager (AEM)**  
 - **Frontend Development** con JavaScript e React  
