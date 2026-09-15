@@ -23,7 +23,7 @@ Attualmente sto approfondendo:
 ## 🔗 Dove puoi trovarmi  
 📫 **Email**: marko292001@gmail.com  
 💼 **LinkedIn**: [Marco I.](https://it.linkedin.com/in/marco-i-7840b8136?trk=people-guest_people_search-card)  
-🎮 **Fun Fact**: Appassionato di tecnologia, quando non sviluppo, mi piace andare in moto 🏍️ ed esplorare la natura 🍂!
+🎮 **Fun Fact**: Appassionato di tecnologia, quando non sviluppo, mi piace andare in moto 🏍️!
 
 ---
 
